@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tik1993
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python and mechine learning
-- 💞️ I’m looking to collaborate on anything related to python
+- 👋 Hi, I’m Ernest @Tik1993
+- 👀 I’m interested in web development
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking to collaborate on anything related to programming and web development
 - 📫 How to reach me ...
 
 <!---
